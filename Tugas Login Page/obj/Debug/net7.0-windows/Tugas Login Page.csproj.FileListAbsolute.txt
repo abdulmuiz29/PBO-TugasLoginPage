@@ -1,0 +1,18 @@
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\bin\Debug\net7.0-windows\Tugas Login Page.exe
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\bin\Debug\net7.0-windows\Tugas Login Page.deps.json
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\bin\Debug\net7.0-windows\Tugas Login Page.runtimeconfig.json
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\bin\Debug\net7.0-windows\Tugas Login Page.dll
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\bin\Debug\net7.0-windows\Tugas Login Page.pdb
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas_Login_Page.Form1.resources
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas_Login_Page.Form2.resources
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas_Login_Page.Properties.Resources.resources
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.csproj.GenerateResource.cache
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.AssemblyInfoInputs.cache
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.AssemblyInfo.cs
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.csproj.CoreCompileInputs.cache
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.dll
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\refint\Tugas Login Page.dll
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.pdb
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\Tugas Login Page.genruntimeconfig.cache
+C:\Users\amuiz\OneDrive\Documents\SEMESTER 3\TUGAS PBO\Tugas Login Page\Tugas Login Page\obj\Debug\net7.0-windows\ref\Tugas Login Page.dll
